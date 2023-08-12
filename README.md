@@ -1,13 +1,18 @@
 # Quark Team 2023-24
 
-- Domains: 
+## Domains:
 
-1. AI / ML
-2. App (Java)
-3. App (Flutter)
-4. Competitive Programming
-5. Cyber Security
-6. ROS
-7. RUST
-8. UI/UX
-9. Web
+
+### 1. AI/ML
+### 2. App (Java)
+### 3. App (Flutter)
+### 4. Competitive Programming
+### 5. Cyber Security
+### 6. Open Source
+
+1. Gourav Suram | Head | Socials : [Github](https://github.com/heapbytes), [Linkedin](https://linkedin.com/in/gouravsuram), [Twitter](https://twitter.com/heapbytes)
+
+### 7. ROS (Robot Operating System)
+### 8. Rust Programming
+### 9. UI/UX (User Interface / User Experience)
+### 10. Web Development
