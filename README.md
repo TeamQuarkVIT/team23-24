@@ -5,6 +5,9 @@
 
 ### 1. AI/ML
 ### 2. App (Java)
+
+1. Prathamesh Thakare | Head | Socials : [Github](https://github.com/Prathamesh72003), [Linkedin](https://linkedin.com/in/prathamesh-prabhakar-thakare), [Twitter](https://twitter.com/heyy_prathammm)
+
 ### 3. App (Flutter)
 ### 4. Competitive Programming
 ### 5. Cyber Security
