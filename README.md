@@ -8,10 +8,10 @@
 ### 3. App (Flutter)
 ### 4. Competitive Programming
 ### 5. Cyber Security
+
+1. Harshwardhan Solanki | Head | Socials : [Github](https://github.com/HARSH-232), [Linkedin](https://linkedin.com/in/harshwardhan-solanki), [Twitter](https://twitter.com/HarshSec)
+
 ### 6. Open Source
-
-1. Gourav Suram | Head | Socials : [Github](https://github.com/heapbytes), [Linkedin](https://linkedin.com/in/gouravsuram), [Twitter](https://twitter.com/heapbytes)
-
 ### 7. ROS (Robot Operating System)
 ### 8. Rust Programming
 ### 9. UI/UX (User Interface / User Experience)
