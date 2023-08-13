@@ -9,7 +9,7 @@
 ### 4. Competitive Programming
 ### 5. Cyber Security
 
-1. Harshwardhan Solanki | Head | Socials : [Github](https://github.com/HARSH-232), [Linkedin](https://linkedin.com/in/harshwardhan-solanki), [Twitter](https://twitter.com/HarshSec)
+1. Harshwardhan Solanki | Head | Socials : [Github](https://github.com/HARSH-232), [Linkedin](https://linkedin.com/in/harshwardhan-solanki), [Twitter](https://twitter.com/HarshSec), [PentesterLab](https://pentesterlab.com/profile/Retaliator), [Hack The Box](https://app.hackthebox.com/profile/1001612)
 
 ### 6. Open Source
 ### 7. ROS (Robot Operating System)
