@@ -7,6 +7,9 @@
 ### 2. App (Java)
 ### 3. App (Flutter)
 ### 4. Competitive Programming
+
+1. Aditya Sakhare | Coordinator | Socials : [Github](https://github.com/Adi-vig/), [LinkedIn](https://www.linkedin.com/in/aditya-sakhare-6855a5256/)
+
 ### 5. Cyber Security
 ### 6. Open Source
 
