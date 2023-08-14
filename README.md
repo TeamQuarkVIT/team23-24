@@ -5,6 +5,7 @@
 
 ### 1. AI/ML
 ### 2. App (Java)
+2. Varad Uplanchiwar | Co-Head | Socials : [Github](https://github.com/Varad0414), [Linkedin](https://www.linkedin.com/in/varad-uplanchiwar-34b636258/)
 ### 3. App (Flutter)
 ### 4. Competitive Programming
 ### 5. Cyber Security
