@@ -18,7 +18,12 @@
 
 1. Harshwardhan Solanki | Head | Socials : [Github](https://github.com/HARSH-232), [Linkedin](https://linkedin.com/in/harshwardhan-solanki), [Twitter](https://twitter.com/HarshSec), [PentesterLab](https://pentesterlab.com/profile/Retaliator), [Hack The Box](https://app.hackthebox.com/profile/1001612)
 
+2. Gourav Suram | Senior Technical Member | Socials : [HackTheBox](https://app.hackthebox.com/profile/670089), [TryHackMe](https://tryhackme.com/p/Cli3nt)
+   
 ### 6. Open Source
+
+1. Gourav Suram | Head | Socials : [Github](https://github.com/heapbytes), [Linkedin](https://linkedin.com/in/gouravsuram), [Twitter](https://twitter.com/heapbytes)
+
 ### 7. ROS (Robot Operating System)
 ### 8. Rust Programming
 
