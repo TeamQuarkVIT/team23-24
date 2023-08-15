@@ -14,6 +14,9 @@
 
 ### 3. App (Flutter)
 ### 4. Competitive Programming
+
+1. Aditya Sakhare | Coordinator | Socials : [Github](https://github.com/Adi-vig/), [LinkedIn](https://www.linkedin.com/in/aditya-sakhare-6855a5256/)
+
 ### 5. Cyber Security
 
 1. Harshwardhan Solanki | Head | Socials : [Github](https://github.com/HARSH-232), [Linkedin](https://linkedin.com/in/harshwardhan-solanki), [Twitter](https://twitter.com/HarshSec), [PentesterLab](https://pentesterlab.com/profile/Retaliator), [Hack The Box](https://app.hackthebox.com/profile/1001612)
