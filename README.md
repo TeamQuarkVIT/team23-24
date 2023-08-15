@@ -26,8 +26,8 @@
 
 ### 7. ROS (Robot Operating System)
 ### 8. Rust Programming
-
-1. Rahul Sundkar | Co-Head | Socials : [Github](https://github.com/RahulSundkar), [Linkedin](https://linkedin.com/in/rahulsundkar)
+1. Piyush Waghulde | Head | Socials : [Github](https://github.com/piyushw0203), [LinkedIn](https://www.linkedin.com/in/piyush-waghulde-5b0499232)
+2. Rahul Sundkar | Co-Head | Socials : [Github](https://github.com/RahulSundkar), [Linkedin](https://linkedin.com/in/rahulsundkar)
 
 ### 9. UI/UX (User Interface / User Experience)
 ### 10. Web Development
