@@ -13,6 +13,9 @@
 2. Varad Uplanchiwar | Co-Head | Socials : [Github](https://github.com/Varad0414), [Linkedin](https://www.linkedin.com/in/varad-uplanchiwar-34b636258/)
 
 ### 3. App (Flutter)
+
+1. Soham Pande | Head | Socials : [Github](https://github.com/soham-1902), [Linkedin](https://www.linkedin.com/in/sohampande/)
+
 ### 4. Competitive Programming
 
 1. Aditya Sakhare | Coordinator | Socials : [Github](https://github.com/Adi-vig/), [LinkedIn](https://www.linkedin.com/in/aditya-sakhare-6855a5256/)
