@@ -37,3 +37,5 @@
 
 ### 9. UI/UX (User Interface / User Experience)
 ### 10. Web Development
+1. Apoorva Pendse | Coordinator | Socials : [Github](https://github.com/apoorvapendse/), [LinkedIn](https://www.linkedin.com/in/apoorva-pendse-5b620225a/)
+
