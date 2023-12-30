@@ -24,7 +24,7 @@
 
 1. Harshwardhan Solanki | Head | Socials : [Github](https://github.com/HARSH-232), [Linkedin](https://linkedin.com/in/harshwardhan-solanki), [Twitter](https://twitter.com/HarshSec), [PentesterLab](https://pentesterlab.com/profile/Retaliator), [Hack The Box](https://app.hackthebox.com/profile/1001612)
 
-2. Gourav Suram | Senior Technical Member | Socials : [HackTheBox](https://app.hackthebox.com/profile/670089), [TryHackMe](https://tryhackme.com/p/Cli3nt)
+2. Gourav Suram | Senior Technical Member | Socials : [HackTheBox](https://app.hackthebox.com/profile/670089), [TryHackMe](https://tryhackme.com/p/heapbytes)
 
 3. Harsh Patil | Coordinator | Socials : [Github](https://github.com/lamergameryt), [LinkedIn](https://www.linkedin.com/in/hpatil)
    
